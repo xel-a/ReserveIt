@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7e8cd0a293610210292f73118bba10d2" label="ReserveIt Calendar Days" max_length="40" name="x_1317506_reservei_calendar_days" type="collection">
+        <element label="Is Available" max_length="40" name="is_available" type="boolean"/>
+        <element label="Is Business Day" max_length="40" name="is_business_day" type="boolean"/>
+        <element label="Is Holiday" max_length="40" name="is_holiday" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Reservation Date" max_length="40" name="reservation_date" type="glide_date"/>
+    </element>
+</database>

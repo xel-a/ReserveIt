@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1317506_reservei.reserveit_scheduled_reservations_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>reserveit_scheduled_reservations_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-04-16 15:05:06</sys_created_on>
+        <sys_id>e4442caa93610210292f73118bba1090</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1317506_reservei.reserveit_scheduled_reservations_user</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sys_user_role_e4442caa93610210292f73118bba1090</sys_update_name>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-04-16 15:05:06</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sys_user_role_e4442caa93610210292f73118bba1090</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1317506_reservei.reserveit_scheduled_reservations_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>reserveit_scheduled_reservations_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-04-16 15:05:06</sys_created_on><sys_id>e4442caa93610210292f73118bba1090</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1317506_reservei.reserveit_scheduled_reservations_user</sys_name><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sys_user_role_e4442caa93610210292f73118bba1090</sys_update_name><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-04-16 15:05:06</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>464322776</payload_hash>
+        <record_name>x_1317506_reservei.reserveit_scheduled_reservations_user</record_name>
+        <reverted_from/>
+        <source>349a10ee93210210292f73118bba10a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-04-16 15:05:06</sys_created_on>
+        <sys_id>a8442caa93610210292f73118bba1093</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ee770b1540000001</sys_recorded_at>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-04-16 15:05:06</sys_updated_on>
+        <type>Role</type>
+        <update_guid>ec442caa7361021076991054ede8b892</update_guid>
+        <update_guid_history>ec442caa7361021076991054ede8b892:464322776</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1317506_reservei.reserveit_scheduled_reservations_user">d0c5282e93610210292f73118bba1091</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-04-16 15:11:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>993a002bc6624af0b48efe8c200abff1</sys_id>
+        <sys_metadata>e4442caa93610210292f73118bba1090</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1317506_reservei.reserveit_scheduled_reservations_user</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sys_user_role_e4442caa93610210292f73118bba1090</sys_update_name>
+        <sys_update_version display_value="sys_user_role_e4442caa93610210292f73118bba1090">a8442caa93610210292f73118bba1093</sys_update_version>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-04-16 15:11:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

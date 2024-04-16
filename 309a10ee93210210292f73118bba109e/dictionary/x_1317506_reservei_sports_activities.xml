@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0b1560ea93610210292f73118bba1034" label="ReserveIt Sports Activities" max_length="40" name="x_1317506_reservei_sports_activities" type="collection">
+        <element label="Activity Rate" max_length="20" name="activity_rate" type="currency"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Time" max_length="40" name="time" type="glide_time"/>
+    </element>
+</database>

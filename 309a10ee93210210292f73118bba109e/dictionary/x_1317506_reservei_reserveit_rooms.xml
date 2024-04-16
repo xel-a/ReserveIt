@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="533c9c6293610210292f73118bba103b" label="ReserveIt Rooms" max_length="40" name="x_1317506_reservei_reserveit_rooms" type="collection">
+        <element label="Capacity" max_length="40" name="capacity" type="integer"/>
+        <element label="Is Available" max_length="40" name="is_available" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Room Rate" max_length="40" name="room_rate" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="single" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Double" value="double"/>
+                <element inactive_on_update="false" label="Executive Suite" value="executive_suite"/>
+                <element inactive_on_update="false" label="King" value="king"/>
+                <element inactive_on_update="false" label="Presidential Suite" value="presidential_suite"/>
+                <element inactive_on_update="false" label="Quad" value="quad"/>
+                <element inactive_on_update="false" label="Queen" value="queen"/>
+                <element inactive_on_update="false" label="Single" value="single"/>
+                <element inactive_on_update="false" label="Triple" value="triple"/>
+            </choice>
+        </element>
+    </element>
+</database>

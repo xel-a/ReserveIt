@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5043646a93610210292f73118bba10eb" label="Reserveit Scheduled Reservations" max_length="40" name="x_1317506_reservei_reserveit_scheduled_reservations" type="collection">
+        <element label="Check-in Date" max_length="40" name="check_in_date" type="glide_date"/>
+        <element label="Check-out Date" max_length="40" name="check_out_date" type="glide_date"/>
+        <element label="Guest Name" max_length="32" name="guest_name" reference="x_1317506_reservei_reserveit_users" type="reference"/>
+        <element label="No. of Days" max_length="40" name="no_of_days" type="integer"/>
+        <element label="Number of Adults" max_length="40" name="number_of_adults" type="integer"/>
+        <element label="Number of Children" max_length="40" name="number_of_children" type="integer"/>
+        <element label="Room" max_length="32" name="room" reference="x_1317506_reservei_reserveit_rooms" type="reference"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element label="Total Payment" max_length="20" name="total_payment" type="currency"/>
+        <index name="index">
+            <element name="guest_name"/>
+        </index>
+        <index name="index2">
+            <element name="room"/>
+        </index>
+    </element>
+</database>

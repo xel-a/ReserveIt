@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Service Management Basics" source="com.snc.service">b5a7b4757db1311076daf29f52070de1</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-04-16 14:46:10</sys_created_on>
+        <sys_id>17ef50a693610210292f73118bba106e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-04-16 14:46:10</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

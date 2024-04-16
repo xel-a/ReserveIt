@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-04-16 14:30:09</sys_created_on>
+        <sys_id>2c4cdc6293610210292f73118bba10af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1317506_reservei_reserveit_rooms.x_1317506_reservei.receptionist</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_security_acl display_value="x_1317506_reservei_reserveit_rooms">e04cdc6293610210292f73118bba10ad</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2c4cdc6293610210292f73118bba10af</sys_update_name>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-04-16 14:30:09</sys_updated_on>
+        <sys_user_role display_value="x_1317506_reserveit.receptionist" name="x_1317506_reserveit.receptionist">68fa102293610210292f73118bba1083</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

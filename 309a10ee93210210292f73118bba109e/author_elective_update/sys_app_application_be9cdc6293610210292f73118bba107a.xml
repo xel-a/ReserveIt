@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>x_1317506_reservei.user,x_1317506_reservei.receptionist,x_1317506_reservei.administrator</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-04-16 14:31:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>be9cdc6293610210292f73118bba107a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ReserveIt</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sys_app_application_be9cdc6293610210292f73118bba107a</sys_update_name>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-04-16 14:31:40</sys_updated_on>
+        <title>ReserveIt</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sys_app_application_be9cdc6293610210292f73118bba107a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="">Custom Applications</category><description/><device_type>browser</device_type><hint/><name/><order/><roles>x_1317506_reservei.user,x_1317506_reservei.receptionist,x_1317506_reservei.administrator</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-04-16 14:31:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>be9cdc6293610210292f73118bba107a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ReserveIt</sys_name><sys_overrides/><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sys_app_application_be9cdc6293610210292f73118bba107a</sys_update_name><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-04-16 14:31:40</sys_updated_on><title>ReserveIt</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>932064884</payload_hash>
+        <record_name>ReserveIt</record_name>
+        <reverted_from/>
+        <source>349a10ee93210210292f73118bba10a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-04-16 14:31:40</sys_created_on>
+        <sys_id>7a9cdc6293610210292f73118bba107e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ee752176e0000001</sys_recorded_at>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-04-16 14:31:40</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>be9cdc624b610210ec3113ca7950467d</update_guid>
+        <update_guid_history>be9cdc624b610210ec3113ca7950467d:932064884</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ReserveIt">9fde106693610210292f73118bba100d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-04-16 14:41:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>a11da084d51446ab961e0b22a0c17b41</sys_id>
+        <sys_metadata>be9cdc6293610210292f73118bba107a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ReserveIt</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sys_app_application_be9cdc6293610210292f73118bba107a</sys_update_name>
+        <sys_update_version display_value="sys_app_application_be9cdc6293610210292f73118bba107a">7a9cdc6293610210292f73118bba107e</sys_update_version>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-04-16 14:41:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

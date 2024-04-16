@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7ad0a4a693610210292f73118bba1022" extends="sys_user" label="ReserveIt Users" max_length="40" name="x_1317506_reservei_reserveit_users" type="collection">
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element label="Years of Experience" max_length="40" name="years_of_experience" type="integer"/>
+    </element>
+</database>
