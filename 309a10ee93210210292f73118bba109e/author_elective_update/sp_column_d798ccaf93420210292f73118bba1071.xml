@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>12</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">9398ccaf93420210292f73118bba106f</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 12:09:37</sys_created_on>
+        <sys_id>d798ccaf93420210292f73118bba1071</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_column_d798ccaf93420210292f73118bba1071</sys_update_name>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 12:09:37</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sp_column_d798ccaf93420210292f73118bba1071</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">9398ccaf93420210292f73118bba106f</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>airash</sys_created_by><sys_created_on>2024-05-14 12:09:37</sys_created_on><sys_id>d798ccaf93420210292f73118bba1071</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sp_column_d798ccaf93420210292f73118bba1071</sys_update_name><sys_updated_by>airash</sys_updated_by><sys_updated_on>2024-05-14 12:09:37</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>1266177179</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>d79565de93f50210292f73118bba103c</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 12:09:37</sys_created_on>
+        <sys_id>1798ccaf93420210292f73118bba1073</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f77021aa50000001</sys_recorded_at>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 12:09:37</sys_updated_on>
+        <type>Column</type>
+        <update_guid>5b98ccaf8f4202107846b5f895b70172</update_guid>
+        <update_guid_history>5b98ccaf8f4202107846b5f895b70172:1266177179</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">0f65146f93820210292f73118bba10c5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 13:05:35</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>03e6fb6434ed4078b2404b625b16be40</sys_id>
+        <sys_metadata>d798ccaf93420210292f73118bba1071</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sp_column_d798ccaf93420210292f73118bba1071</sys_update_name>
+        <sys_update_version display_value="sp_column_d798ccaf93420210292f73118bba1071">1798ccaf93420210292f73118bba1073</sys_update_version>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 13:05:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

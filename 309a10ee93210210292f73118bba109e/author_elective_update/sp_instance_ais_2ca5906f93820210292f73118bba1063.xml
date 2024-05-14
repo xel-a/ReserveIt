@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="DELETE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">3f85906f93820210292f73118bba1088</sp_column>
+        <sp_widget display_value="Typeahead Search">fa20ec02cb31020000f8d856634c9ce9</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 13:06:31</sys_created_on>
+        <sys_id>2ca5906f93820210292f73118bba1063</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_instance_ais_2ca5906f93820210292f73118bba1063</sys_update_name>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 13:06:31</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_ais>
+    <sys_translated_text action="DELETE" query="documentkey=2ca5906f93820210292f73118bba1063"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sp_instance_ais_2ca5906f93820210292f73118bba1063</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais"><sp_instance_ais action="INSERT_OR_UPDATE"><active>true</active><ai_search_source_filter/><class_name/><color>default</color><css/><disable_all_suggestions>false</disable_all_suggestions><glyph/><id/><order>1</order><placeholder/><roles/><search_application/><search_results_configuration/><short_description/><size>md</size><sp_column display_value="1">3f85906f93820210292f73118bba1088</sp_column><sp_widget display_value="Typeahead Search">fa20ec02cb31020000f8d856634c9ce9</sp_widget><spell_check_font_size>xl</spell_check_font_size><sys_class_name>sp_instance_ais</sys_class_name><sys_created_by>airash</sys_created_by><sys_created_on>2024-05-14 13:06:31</sys_created_on><sys_id>2ca5906f93820210292f73118bba1063</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sp_instance_ais_2ca5906f93820210292f73118bba1063</sys_update_name><sys_updated_by>airash</sys_updated_by><sys_updated_on>2024-05-14 13:06:31</sys_updated_on><title/><url/><widget_parameters/></sp_instance_ais><sys_translated_text action="delete_multiple" query="documentkey=2ca5906f93820210292f73118bba1063"/></record_update>]]></payload>
+        <payload_hash>-427732813</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>d79565de93f50210292f73118bba103c</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 13:06:31</sys_created_on>
+        <sys_id>a8a5d86f93820210292f73118bba107b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f773630220000001</sys_recorded_at>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 13:06:31</sys_updated_on>
+        <type>Instance with Search</type>
+        <update_guid>a0a5906f88820210dc2209dce395e465</update_guid>
+        <update_guid_history>a0a5906f88820210dc2209dce395e465:-427732813</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">f87658af93820210292f73118bba1009</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 13:10:04</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_ais">sp_instance_ais</sys_db_object>
+        <sys_id>56fb321f70e943cf827964b1c3d616c9</sys_id>
+        <sys_metadata>2ca5906f93820210292f73118bba1063</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sp_instance_ais_2ca5906f93820210292f73118bba1063</sys_update_name>
+        <sys_update_version display_value="sp_instance_ais_2ca5906f93820210292f73118bba1063">a8a5d86f93820210292f73118bba107b</sys_update_version>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 13:10:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

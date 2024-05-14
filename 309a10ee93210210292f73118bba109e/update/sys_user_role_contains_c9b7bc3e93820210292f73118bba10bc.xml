@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_1317506_reserveit.receptionist" name="x_1317506_reserveit.receptionist">68fa102293610210292f73118bba1083</contains>
+        <role display_value="x_1317506_reserveit.administrator" name="x_1317506_reserveit.administrator">2cfa9cee93210210292f73118bba101e</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-12 07:40:17</sys_created_on>
+        <sys_id>c9b7bc3e93820210292f73118bba10bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1317506_reserveit.receptionist.x_1317506_reserveit.administrator</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sys_user_role_contains_c9b7bc3e93820210292f73118bba10bc</sys_update_name>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-12 07:40:17</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

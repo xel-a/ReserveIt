@@ -3,7 +3,7 @@
         <element label="Check-in Date" max_length="40" name="check_in_date" type="glide_date"/>
         <element label="Check-out Date" max_length="40" name="check_out_date" type="glide_date"/>
         <element label="Guest Name" max_length="32" name="guest_name" reference="x_1317506_reservei_reserveit_users" type="reference"/>
-        <element label="No. of Days" max_length="40" name="no_of_days" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="No. of Days" max_length="40" name="no_of_days" read_only="true" type="integer"/>
         <element label="Number of Adults" max_length="40" name="number_of_adults" type="integer"/>
         <element label="Number of Children" max_length="40" name="number_of_children" type="integer"/>
         <element label="Room" max_length="32" name="room" reference="x_1317506_reservei_reserveit_rooms" type="reference"/>

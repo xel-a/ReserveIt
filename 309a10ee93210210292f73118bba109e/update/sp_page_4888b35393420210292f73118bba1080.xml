@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>hrp_index</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 10:59:14</sys_created_on>
+        <sys_id>4888b35393420210292f73118bba1080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hrp_index</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_page_4888b35393420210292f73118bba1080</sys_update_name>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 10:59:14</sys_updated_on>
+        <title>Hotel Reservation Portal Homepage</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=4888b35393420210292f73118bba1080"/>
+</record_update>

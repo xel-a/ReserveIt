@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="ReserveIt">68a694fa93020210292f73118bba1034</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_1317506_reservei_reserveit_calendar_days">holiday=true^EQ<item endquery="false" field="holiday" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>&gt; Add Holidays</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1317506_reservei_reserveit_calendar_days</name>
+        <order>12</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_1317506_reserveit.administrator</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-12 07:17:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ec52bc7693820210292f73118bba1071</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>&gt; View Holidays</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sys_app_module_ec52bc7693820210292f73118bba1071</sys_update_name>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-12 08:42:53</sys_updated_on>
+        <timeline_page/>
+        <title>&gt; View Holidays</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sys_app_module_ec52bc7693820210292f73118bba1071</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="ReserveIt">68a694fa93020210292f73118bba1034</application><assessment/><device_type/><filter table="x_1317506_reservei_reserveit_calendar_days">holiday=true^EQ<item endquery="false" field="holiday" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>&gt; Add Holidays</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1317506_reservei_reserveit_calendar_days</name><order>12</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_1317506_reserveit.administrator</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>airash</sys_created_by><sys_created_on>2024-05-12 07:17:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ec52bc7693820210292f73118bba1071</sys_id><sys_mod_count>3</sys_mod_count><sys_name>&gt; View Holidays</sys_name><sys_overrides/><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sys_app_module_ec52bc7693820210292f73118bba1071</sys_update_name><sys_updated_by>airash</sys_updated_by><sys_updated_on>2024-05-12 08:42:53</sys_updated_on><timeline_page/><title>&gt; View Holidays</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2025182720</payload_hash>
+        <record_name>&gt; View Holidays</record_name>
+        <reverted_from/>
+        <source>d79565de93f50210292f73118bba103c</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-12 08:42:53</sys_created_on>
+        <sys_id>6f16c17e93c20210292f73118bba1060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f6bf81db00000001</sys_recorded_at>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-12 08:42:53</sys_updated_on>
+        <type>Module</type>
+        <update_guid>2716c17effc20210dfb517efe8ef3360</update_guid>
+        <update_guid_history>2716c17effc20210dfb517efe8ef3360:2025182720,34c5417edac20210d8c9752ca7dffee6:225356735,3102893a9fc20210c8546c6c19aaef49:102418137,e772f4b6268202106d2387f20df5b5fa:2104131599</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="&gt; View Holidays">9ef9897293060210292f73118bba10bc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-12 08:59:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>d4587940c2924000ae93c1eca4000000</sys_id>
+        <sys_metadata>ec52bc7693820210292f73118bba1071</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>&gt; View Holidays</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sys_app_module_ec52bc7693820210292f73118bba1071</sys_update_name>
+        <sys_update_version display_value="sys_app_module_ec52bc7693820210292f73118bba1071">6f16c17e93c20210292f73118bba1060</sys_update_version>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-12 08:59:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

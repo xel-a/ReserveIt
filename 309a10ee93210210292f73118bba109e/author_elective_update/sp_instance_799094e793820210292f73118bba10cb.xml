@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">d798ccaf93420210292f73118bba1071</sp_column>
+        <sp_widget display_value="Search Page">b8c57073cb10020000f8d856634c9cfc</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 12:44:29</sys_created_on>
+        <sys_id>799094e793820210292f73118bba10cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_instance_799094e793820210292f73118bba10cb</sys_update_name>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 12:44:29</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=799094e793820210292f73118bba10cb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sp_instance_799094e793820210292f73118bba10cb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">d798ccaf93420210292f73118bba1071</sp_column><sp_widget display_value="Search Page">b8c57073cb10020000f8d856634c9cfc</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>airash</sys_created_by><sys_created_on>2024-05-14 12:44:29</sys_created_on><sys_id>799094e793820210292f73118bba10cb</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sp_instance_799094e793820210292f73118bba10cb</sys_update_name><sys_updated_by>airash</sys_updated_by><sys_updated_on>2024-05-14 12:44:29</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=799094e793820210292f73118bba10cb"/></record_update>]]></payload>
+        <payload_hash>758214692</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>d79565de93f50210292f73118bba103c</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 12:44:29</sys_created_on>
+        <sys_id>ca9094e793820210292f73118bba10cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f772206740000001</sys_recorded_at>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 12:44:29</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>029094e78082021090ecbcaaf37f64cd</update_guid>
+        <update_guid_history>029094e78082021090ecbcaaf37f64cd:758214692</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">bf901c2b93820210292f73118bba1001</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 12:44:37</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>889a89a191a3486e9dcbaa582dc58b41</sys_id>
+        <sys_metadata>799094e793820210292f73118bba10cb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sp_instance_799094e793820210292f73118bba10cb</sys_update_name>
+        <sys_update_version display_value="sp_instance_799094e793820210292f73118bba10cb">ca9094e793820210292f73118bba10cd</sys_update_version>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 12:44:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

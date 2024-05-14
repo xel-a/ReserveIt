@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="DELETE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>hrp_index</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 10:57:43</sys_created_on>
+        <sys_id>4a28771393420210292f73118bba101a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hrp_index</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_page_4a28771393420210292f73118bba101a</sys_update_name>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 10:57:43</sys_updated_on>
+        <title>Hotel Reservation Portal Homepage</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="DELETE" query="documentkey=4a28771393420210292f73118bba101a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sp_page_4a28771393420210292f73118bba101a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>custom</category><css/><draft>false</draft><dynamic_title_structure/><human_readable_url_structure/><id>hrp_index</id><internal>false</internal><omit_watcher>false</omit_watcher><public>false</public><roles/><seo_script/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>airash</sys_created_by><sys_created_on>2024-05-14 10:57:43</sys_created_on><sys_id>4a28771393420210292f73118bba101a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>hrp_index</sys_name><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sp_page_4a28771393420210292f73118bba101a</sys_update_name><sys_updated_by>airash</sys_updated_by><sys_updated_on>2024-05-14 10:57:43</sys_updated_on><title>Hotel Reservation Portal Homepage</title><use_seo_script>false</use_seo_script></sp_page><sys_translated_text action="delete_multiple" query="documentkey=4a28771393420210292f73118bba101a"/></record_update>]]></payload>
+        <payload_hash>-950037493</payload_hash>
+        <record_name>hrp_index</record_name>
+        <reverted_from/>
+        <source>d79565de93f50210292f73118bba103c</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 10:57:44</sys_created_on>
+        <sys_id>9a28771393420210292f73118bba101c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f76c049b40000001</sys_recorded_at>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 10:57:44</sys_updated_on>
+        <type>Page</type>
+        <update_guid>de287713a942021057fa3a287cb29d1b</update_guid>
+        <update_guid_history>de287713a942021057fa3a287cb29d1b:-950037493</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="hrp_index">2468335393420210292f73118bba1059</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 10:58:42</sys_created_on>
+        <sys_db_object display_value="" name="sp_page">sp_page</sys_db_object>
+        <sys_id>6b26dedf2d184d78be8c0f6429115c40</sys_id>
+        <sys_metadata>4a28771393420210292f73118bba101a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hrp_index</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sp_page_4a28771393420210292f73118bba101a</sys_update_name>
+        <sys_update_version display_value="sp_page_4a28771393420210292f73118bba101a">9a28771393420210292f73118bba101c</sys_update_version>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 10:58:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

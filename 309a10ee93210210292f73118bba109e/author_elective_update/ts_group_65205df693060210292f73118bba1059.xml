@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ts_group">
+    <ts_group action="DELETE">
+        <active>true</active>
+        <description/>
+        <group/>
+        <name>User</name>
+        <order>100</order>
+        <roles>x_1317506_reserveit.user</roles>
+        <searched>true</searched>
+        <sys_class_name>ts_group</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-12 09:27:18</sys_created_on>
+        <sys_id>65205df693060210292f73118bba1059</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>ts_group_65205df693060210292f73118bba1059</sys_update_name>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-12 09:27:18</sys_updated_on>
+        <tables/>
+    </ts_group>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>ts_group_65205df693060210292f73118bba1059</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ts_group"><ts_group action="INSERT_OR_UPDATE"><active>true</active><description/><group/><name>User</name><order>100</order><roles>x_1317506_reserveit.user</roles><searched>true</searched><sys_class_name>ts_group</sys_class_name><sys_created_by>stan</sys_created_by><sys_created_on>2024-05-12 09:27:18</sys_created_on><sys_id>65205df693060210292f73118bba1059</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User</sys_name><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>ts_group_65205df693060210292f73118bba1059</sys_update_name><sys_updated_by>stan</sys_updated_by><sys_updated_on>2024-05-12 09:27:18</sys_updated_on><tables/></ts_group></record_update>]]></payload>
+        <payload_hash>1958213777</payload_hash>
+        <record_name>User</record_name>
+        <reverted_from/>
+        <source>939f255a93390210292f73118bba1032</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-12 09:27:18</sys_created_on>
+        <sys_id>ca40d93a93060210292f73118bba10a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f6c20c64c0000001</sys_recorded_at>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-12 09:27:18</sys_updated_on>
+        <type>Text Search Groups</type>
+        <update_guid>0240d93a8e060210c184baed9d313ea4</update_guid>
+        <update_guid_history>0240d93a8e060210c184baed9d313ea4:1958213777</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="User">9fc159ba93060210292f73118bba101d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-12 09:33:56</sys_created_on>
+        <sys_db_object display_value="" name="ts_group">ts_group</sys_db_object>
+        <sys_id>7b61c722a14544fe9e0043a2a2daffb1</sys_id>
+        <sys_metadata>65205df693060210292f73118bba1059</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>ts_group_65205df693060210292f73118bba1059</sys_update_name>
+        <sys_update_version display_value="ts_group_65205df693060210292f73118bba1059">ca40d93a93060210292f73118bba10a4</sys_update_version>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-12 09:33:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

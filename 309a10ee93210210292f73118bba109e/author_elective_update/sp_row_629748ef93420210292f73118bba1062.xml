@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="Hotel Reservation Portal Homepage - Container 1">1088b35393420210292f73118bba1083</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 12:05:13</sys_created_on>
+        <sys_id>629748ef93420210292f73118bba1062</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_row_629748ef93420210292f73118bba1062</sys_update_name>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 12:05:13</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sp_row_629748ef93420210292f73118bba1062</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column/><sp_container display_value="Hotel Reservation Portal Homepage - Container 1">1088b35393420210292f73118bba1083</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>airash</sys_created_by><sys_created_on>2024-05-14 12:05:13</sys_created_on><sys_id>629748ef93420210292f73118bba1062</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sp_row_629748ef93420210292f73118bba1062</sys_update_name><sys_updated_by>airash</sys_updated_by><sys_updated_on>2024-05-14 12:05:13</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>82923402</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>d79565de93f50210292f73118bba103c</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 12:05:13</sys_created_on>
+        <sys_id>f29748ef93420210292f73118bba1064</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f76fe118c0000001</sys_recorded_at>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 12:05:13</sys_updated_on>
+        <type>Row</type>
+        <update_guid>3a9748efce420210e1aaa4fd9a388a63</update_guid>
+        <update_guid_history>3a9748efce420210e1aaa4fd9a388a63:82923402</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">a8a7c8ef93420210292f73118bba102f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 12:05:20</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>03687e182b6449b0804b3479f0adef09</sys_id>
+        <sys_metadata>629748ef93420210292f73118bba1062</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sp_row_629748ef93420210292f73118bba1062</sys_update_name>
+        <sys_update_version display_value="sp_row_629748ef93420210292f73118bba1062">f29748ef93420210292f73118bba1064</sys_update_version>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 12:05:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

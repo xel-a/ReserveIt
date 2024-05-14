@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Hotel Reservation Portal Homepage - Container 3</name>
+        <order>3</order>
+        <sp_page display_value="hrp_index">4888b35393420210292f73118bba1080</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 14:29:52</sys_created_on>
+        <sys_id>79b868a393060210292f73118bba10d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hotel Reservation Portal Homepage - Container 3</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_container_79b868a393060210292f73118bba10d2</sys_update_name>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 14:29:52</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

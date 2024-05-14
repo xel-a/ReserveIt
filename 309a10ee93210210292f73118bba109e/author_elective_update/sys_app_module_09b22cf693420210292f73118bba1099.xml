@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="ReserveIt">68a694fa93020210292f73118bba1034</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_1317506_reservei_reserveit_rooms">is_availableISEMPTY^EQ<item endquery="false" field="is_available" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Add Room Availability</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1317506_reservei_reserveit_rooms</name>
+        <order>7</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-12 06:11:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>09b22cf693420210292f73118bba1099</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Add Room Availability</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sys_app_module_09b22cf693420210292f73118bba1099</sys_update_name>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-12 06:11:16</sys_updated_on>
+        <timeline_page/>
+        <title>Add Room Availability</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sys_app_module_09b22cf693420210292f73118bba1099</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="ReserveIt">68a694fa93020210292f73118bba1034</application><assessment/><device_type/><filter table="x_1317506_reservei_reserveit_rooms">is_availableISEMPTY^EQ<item endquery="false" field="is_available" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Add Room Availability</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1317506_reservei_reserveit_rooms</name><order>7</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>stan</sys_created_by><sys_created_on>2024-05-12 06:11:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>09b22cf693420210292f73118bba1099</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Add Room Availability</sys_name><sys_overrides/><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sys_app_module_09b22cf693420210292f73118bba1099</sys_update_name><sys_updated_by>stan</sys_updated_by><sys_updated_on>2024-05-12 06:11:16</sys_updated_on><timeline_page/><title>Add Room Availability</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1917855243</payload_hash>
+        <record_name>Add Room Availability</record_name>
+        <reverted_from/>
+        <source>939f255a93390210292f73118bba1032</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-12 06:11:16</sys_created_on>
+        <sys_id>6a636c3a93420210292f73118bba1051</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f6b6d4f4e0000001</sys_recorded_at>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-12 06:11:16</sys_updated_on>
+        <type>Module</type>
+        <update_guid>22636c3a8242021019b355b47d0b6751</update_guid>
+        <update_guid_history>22636c3a8242021019b355b47d0b6751:1917855243,bb536c3a364202106d521675c7db4f48:-1779035426</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Add Room Availability">5f496cbe93420210292f73118bba1026</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-12 06:36:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>38e3a671325b4d2c9081894847776839</sys_id>
+        <sys_metadata>09b22cf693420210292f73118bba1099</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add Room Availability</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sys_app_module_09b22cf693420210292f73118bba1099</sys_update_name>
+        <sys_update_version display_value="sys_app_module_09b22cf693420210292f73118bba1099">6a636c3a93420210292f73118bba1051</sys_update_version>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-12 06:36:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

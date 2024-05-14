@@ -3,7 +3,7 @@
         <element label="Capacity" max_length="40" name="capacity" type="integer"/>
         <element label="Is Available" max_length="40" name="is_available" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" type="string"/>
-        <element label="Room Rate" max_length="40" name="room_rate" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,omit_sys_original=true" label="Room Rate" max_length="40" name="room_rate" type="currency"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="single" label="Type" max_length="40" name="type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Double" value="double"/>

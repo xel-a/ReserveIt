@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b8aef94793110210292f73118bba10b0" label="ReserveIt Calendar Days" max_length="40" name="x_1317506_reservei_reserveit_calendar_days" type="collection">
+        <element label="End date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Holiday" max_length="40" name="holiday" type="boolean"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Start date" max_length="40" name="start_date" type="glide_date"/>
+        <element choice="1" label="Type of Holiday" max_length="40" name="type_of_holiday" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Local" value="local"/>
+                <element inactive_on_update="false" label="National" value="national"/>
+                <element inactive_on_update="false" label="Special Non-Working" value="special_non_working"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="is_holiday" table="x_1317506_reservei_calendar_days">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Is Holiday</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>is_holiday</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">boolean</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1317506_reservei_calendar_days</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-04-16 14:31:24</sys_created_on>
+        <sys_name>Is Holiday</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sys_dictionary_x_1317506_reservei_calendar_days_is_holiday</sys_update_name>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-04-16 14:31:24</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sys_dictionary_x_1317506_reservei_calendar_days_is_holiday</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="is_holiday" table="x_1317506_reservei_calendar_days">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Is Holiday</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>is_holiday</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">boolean</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1317506_reservei_calendar_days</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-04-16 14:31:24</sys_created_on>
+        <sys_name>Is Holiday</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sys_dictionary_x_1317506_reservei_calendar_days_is_holiday</sys_update_name>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-04-16 14:31:24</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+</record_update>]]></payload>
+        <payload_hash>-884480765</payload_hash>
+        <record_name>ReserveIt Calendar Days.Is Holiday</record_name>
+        <reverted_from/>
+        <source>5df8aca393060210292f73118bba10d5</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 14:31:20</sys_created_on>
+        <sys_id>8f09a4e393060210292f73118bba1000</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f7783d82e0000001</sys_recorded_at>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 14:31:20</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>4b09a4e38a0602104b8933b5b1fffa00</update_guid>
+        <update_guid_history>4b09a4e38a0602104b8933b5b1fffa00:0,8252391e183902101f5cd5b86f8b7eaa:2103332861,4b8c14a2126102107ec66778478c8962:-16608183</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 14:34:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>02cd907d7ad348be800b23806f68d6e4</sys_id>
+        <sys_metadata>ca0924e393060210292f73118bba104e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Is Holiday</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1317506_reservei_calendar_days_is_holiday</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1317506_reservei_calendar_days_is_holiday">8f09a4e393060210292f73118bba1000</sys_update_version>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 14:34:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="ReserveIt">68a694fa93020210292f73118bba1034</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_1317506_reservei_reserveit_scheduled_reservations">check_out_dateONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()^EQ<item endquery="false" field="check_out_date" goto="false" newquery="false" operator="ON" or="false" value="Today@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Update Reservation Availability</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1317506_reservei_reserveit_scheduled_reservations</name>
+        <order>8</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-12 06:24:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b5d2283a93420210292f73118bba1084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Reservation Availability</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sys_app_module_b5d2283a93420210292f73118bba1084</sys_update_name>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-12 06:24:09</sys_updated_on>
+        <timeline_page/>
+        <title>Update Reservation Availability</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sys_app_module_b5d2283a93420210292f73118bba1084</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="ReserveIt">68a694fa93020210292f73118bba1034</application><assessment/><device_type/><filter table="x_1317506_reservei_reserveit_scheduled_reservations">check_out_dateONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()^EQ<item endquery="false" field="check_out_date" goto="false" newquery="false" operator="ON" or="false" value="Today@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Update Reservation Availability</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1317506_reservei_reserveit_scheduled_reservations</name><order>8</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>airash</sys_created_by><sys_created_on>2024-05-12 06:24:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b5d2283a93420210292f73118bba1084</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Update Reservation Availability</sys_name><sys_overrides/><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sys_app_module_b5d2283a93420210292f73118bba1084</sys_update_name><sys_updated_by>airash</sys_updated_by><sys_updated_on>2024-05-12 06:24:09</sys_updated_on><timeline_page/><title>Update Reservation Availability</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1565371177</payload_hash>
+        <record_name>Update Reservation Availability</record_name>
+        <reverted_from/>
+        <source>d79565de93f50210292f73118bba103c</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-12 06:24:09</sys_created_on>
+        <sys_id>d35660ba93420210292f73118bba1004</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f6b791a030000001</sys_recorded_at>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-12 06:24:09</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1b5660baa9420210f3971118ea4d2903</update_guid>
+        <update_guid_history>1b5660baa9420210f3971118ea4d2903:1565371177</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Update Reservation Availability">0cf6e43e93420210292f73118bba10ca</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-12 06:26:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>081be1d931544500b9c9eb02f6e37559</sys_id>
+        <sys_metadata>b5d2283a93420210292f73118bba1084</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Reservation Availability</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sys_app_module_b5d2283a93420210292f73118bba1084</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b5d2283a93420210292f73118bba1084">d35660ba93420210292f73118bba1004</sys_update_version>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-12 06:26:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
