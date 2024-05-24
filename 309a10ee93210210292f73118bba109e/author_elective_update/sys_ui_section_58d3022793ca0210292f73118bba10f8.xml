@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="58d3022793ca0210292f73118bba10f8" sys_domain="global" table="x_1317506_reservei_reserveit_scheduled_reservations" version="3" view="advanced_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>ignashuu</sys_created_by>
+            <sys_created_on>2024-05-14 21:08:13</sys_created_on>
+            <sys_id>b0e3866793ca0210292f73118bba1070</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section>
+            <sys_updated_by>ignashuu</sys_updated_by>
+            <sys_updated_on>2024-05-14 21:08:13</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>check_in_date</element>
+            <position>1</position>
+            <sys_created_by>ignashuu</sys_created_by>
+            <sys_created_on>2024-05-14 21:08:13</sys_created_on>
+            <sys_id>b4e3866793ca0210292f73118bba1070</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section>
+            <sys_updated_by>ignashuu</sys_updated_by>
+            <sys_updated_on>2024-05-14 21:08:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number_of_children</element>
+            <position>2</position>
+            <sys_created_by>ignashuu</sys_created_by>
+            <sys_created_on>2024-05-14 21:08:13</sys_created_on>
+            <sys_id>b8e3866793ca0210292f73118bba1070</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section>
+            <sys_updated_by>ignashuu</sys_updated_by>
+            <sys_updated_on>2024-05-14 21:08:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>no_of_days</element>
+            <position>3</position>
+            <sys_created_by>ignashuu</sys_created_by>
+            <sys_created_on>2024-05-14 21:08:13</sys_created_on>
+            <sys_id>bce3866793ca0210292f73118bba1070</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section>
+            <sys_updated_by>ignashuu</sys_updated_by>
+            <sys_updated_on>2024-05-14 21:08:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>check_out_date</element>
+            <position>4</position>
+            <sys_created_by>ignashuu</sys_created_by>
+            <sys_created_on>2024-05-14 21:08:13</sys_created_on>
+            <sys_id>b0e3866793ca0210292f73118bba1071</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section>
+            <sys_updated_by>ignashuu</sys_updated_by>
+            <sys_updated_on>2024-05-14 21:08:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>room</element>
+            <position>5</position>
+            <sys_created_by>ignashuu</sys_created_by>
+            <sys_created_on>2024-05-14 21:08:13</sys_created_on>
+            <sys_id>b4e3866793ca0210292f73118bba1071</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section>
+            <sys_updated_by>ignashuu</sys_updated_by>
+            <sys_updated_on>2024-05-14 21:08:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>ignashuu</sys_created_by>
+            <sys_created_on>2024-05-14 21:08:13</sys_created_on>
+            <sys_id>b8e3866793ca0210292f73118bba1071</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section>
+            <sys_updated_by>ignashuu</sys_updated_by>
+            <sys_updated_on>2024-05-14 21:08:13</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number_of_adults</element>
+            <position>7</position>
+            <sys_created_by>ignashuu</sys_created_by>
+            <sys_created_on>2024-05-14 21:08:13</sys_created_on>
+            <sys_id>bce3866793ca0210292f73118bba1071</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section>
+            <sys_updated_by>ignashuu</sys_updated_by>
+            <sys_updated_on>2024-05-14 21:08:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>guest_name</element>
+            <position>8</position>
+            <sys_created_by>ignashuu</sys_created_by>
+            <sys_created_on>2024-05-14 21:08:13</sys_created_on>
+            <sys_id>b0e3866793ca0210292f73118bba1072</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section>
+            <sys_updated_by>ignashuu</sys_updated_by>
+            <sys_updated_on>2024-05-14 21:08:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_payment</element>
+            <position>9</position>
+            <sys_created_by>ignashuu</sys_created_by>
+            <sys_created_on>2024-05-14 21:08:13</sys_created_on>
+            <sys_id>b4e3866793ca0210292f73118bba1072</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section>
+            <sys_updated_by>ignashuu</sys_updated_by>
+            <sys_updated_on>2024-05-14 21:08:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>10</position>
+            <sys_created_by>ignashuu</sys_created_by>
+            <sys_created_on>2024-05-14 21:08:13</sys_created_on>
+            <sys_id>b8e3866793ca0210292f73118bba1072</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section>
+            <sys_updated_by>ignashuu</sys_updated_by>
+            <sys_updated_on>2024-05-14 21:08:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>11</position>
+            <sys_created_by>ignashuu</sys_created_by>
+            <sys_created_on>2024-05-14 21:08:13</sys_created_on>
+            <sys_id>bce3866793ca0210292f73118bba1072</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section>
+            <sys_updated_by>ignashuu</sys_updated_by>
+            <sys_updated_on>2024-05-14 21:08:13</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1317506_reservei_reserveit_scheduled_reservations</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>ignashuu</sys_created_by>
+            <sys_created_on>2024-05-14 21:07:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58d3022793ca0210292f73118bba10f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1317506_reservei_reserveit_scheduled_reservations</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+            <sys_update_name>sys_ui_section_58d3022793ca0210292f73118bba10f8</sys_update_name>
+            <sys_updated_by>ignashuu</sys_updated_by>
+            <sys_updated_on>2024-05-14 21:07:54</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Advanced View" name="advanced_view">4abbf0f17d35311076daf29f52070d25</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sys_ui_section_58d3022793ca0210292f73118bba10f8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="58d3022793ca0210292f73118bba10f8" sys_domain="global" table="x_1317506_reservei_reserveit_scheduled_reservations" version="3" view="advanced_view"><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-05-14 21:08:13</sys_created_on><sys_id>b0e3866793ca0210292f73118bba1070</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-05-14 21:08:13</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>check_in_date</element><position>1</position><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-05-14 21:08:13</sys_created_on><sys_id>b4e3866793ca0210292f73118bba1070</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-05-14 21:08:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number_of_children</element><position>2</position><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-05-14 21:08:13</sys_created_on><sys_id>b8e3866793ca0210292f73118bba1070</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-05-14 21:08:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>no_of_days</element><position>3</position><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-05-14 21:08:13</sys_created_on><sys_id>bce3866793ca0210292f73118bba1070</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-05-14 21:08:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>check_out_date</element><position>4</position><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-05-14 21:08:13</sys_created_on><sys_id>b0e3866793ca0210292f73118bba1071</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-05-14 21:08:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>room</element><position>5</position><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-05-14 21:08:13</sys_created_on><sys_id>b4e3866793ca0210292f73118bba1071</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-05-14 21:08:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>6</position><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-05-14 21:08:13</sys_created_on><sys_id>b8e3866793ca0210292f73118bba1071</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-05-14 21:08:13</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number_of_adults</element><position>7</position><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-05-14 21:08:13</sys_created_on><sys_id>bce3866793ca0210292f73118bba1071</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-05-14 21:08:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>guest_name</element><position>8</position><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-05-14 21:08:13</sys_created_on><sys_id>b0e3866793ca0210292f73118bba1072</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-05-14 21:08:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>total_payment</element><position>9</position><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-05-14 21:08:13</sys_created_on><sys_id>b4e3866793ca0210292f73118bba1072</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-05-14 21:08:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>status</element><position>10</position><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-05-14 21:08:13</sys_created_on><sys_id>b8e3866793ca0210292f73118bba1072</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-05-14 21:08:13</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>11</position><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-05-14 21:08:13</sys_created_on><sys_id>bce3866793ca0210292f73118bba1072</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_reserveit_scheduled_reservations" sys_domain="global" view="4abbf0f17d35311076daf29f52070d25">58d3022793ca0210292f73118bba10f8</sys_ui_section><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-05-14 21:08:13</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1317506_reservei_reserveit_scheduled_reservations</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-05-14 21:07:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>58d3022793ca0210292f73118bba10f8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1317506_reservei_reserveit_scheduled_reservations</sys_name><sys_overrides/><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sys_ui_section_58d3022793ca0210292f73118bba10f8</sys_update_name><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-05-14 21:07:54</sys_updated_on><sys_user/><title>false</title><view display_value="Advanced View" name="advanced_view">4abbf0f17d35311076daf29f52070d25</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1103283213</payload_hash>
+        <record_name>Reserveit Scheduled Reservations</record_name>
+        <reverted_from/>
+        <source>2cee256f934a0210292f73118bba102b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 21:08:13</sys_created_on>
+        <sys_id>7ce3c66793ca0210292f73118bba10b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f78ef34780000001</sys_recorded_at>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 21:08:13</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>f0e3c667d3ca0210059fba1bbd1458b8</update_guid>
+        <update_guid_history>f0e3c667d3ca0210059fba1bbd1458b8:-1103283213,18d3866738ca021074bbf8a6f024275e:884045344</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 21:16:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1b62030c44004ca88c7bb6200bf43464</sys_id>
+        <sys_metadata>58d3022793ca0210292f73118bba10f8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1317506_reservei_reserveit_scheduled_reservations</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent display_value="Reserveit Scheduled Reservations">5043646a93610210292f73118bba10eb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_58d3022793ca0210292f73118bba10f8</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_58d3022793ca0210292f73118bba10f8">7ce3c66793ca0210292f73118bba10b8</sys_update_version>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 21:16:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

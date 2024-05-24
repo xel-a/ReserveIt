@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1317506_reservei.ReserveItUtils</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>ReserveItUtils</name>
+        <script><![CDATA[var ReserveItUtils = Class.create();
+ReserveItUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	type: 'ReserveItUtils',
+	getRoomRate: function () {
+		var roomId = this.getParameter('sysparm_roomId');
+		var roomGR = new GlideRecord('x_1317506_reservei_reserveit_rooms');
+		roomGR.get('sys_id', roomId);
+		return roomGR.getValue('room_rate');
+	},
+	getDateDiff: function () {
+		var startDateString = this.getParameter('sysparm_startDate');
+		var endDateString = this.getParameter('sysparm_endDateString');
+
+		// Split the date strings into year, month, and day components
+		var startDateComponents = startDateString.split('-');
+		var endDateComponents = endDateString.split('-');
+
+		// Create Date objects from the components (subtract 1 from month index because JavaScript months are 0-indexed)
+		var startDate = new Date(parseInt(startDateComponents[0]), parseInt(startDateComponents[1]) - 1, parseInt(startDateComponents[2]));
+		var endDate = new Date(parseInt(endDateComponents[0]), parseInt(endDateComponents[1]) - 1, parseInt(endDateComponents[2]));
+
+		// Calculate the difference in milliseconds
+		var differenceInMilliseconds = endDate - startDate;
+
+		// Convert milliseconds to days
+		var differenceInDays = Math.floor(differenceInMilliseconds / (1000 * 60 * 60 * 24));
+
+		return differenceInDays.toFixed(0);
+	}
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 19:39:30</sys_created_on>
+        <sys_id>1aaeed2f934a0210292f73118bba10cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ReserveItUtils</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sys_script_include_1aaeed2f934a0210292f73118bba10cf</sys_update_name>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 19:39:30</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sys_script_include_1aaeed2f934a0210292f73118bba10cf</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_1317506_reservei.ReserveItUtils&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;ReserveItUtils&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var ReserveItUtils = Class.create();
+ReserveItUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	type: 'ReserveItUtils',
+	getRoomRate: function () {
+		var roomId = this.getParameter('sysparm_roomId');
+		var roomGR = new GlideRecord('x_1317506_reservei_reserveit_rooms');
+		roomGR.get('sys_id', roomId);
+		return roomGR.getValue('room_rate');
+	},
+	getDateDiff: function () {
+		var startDateString = this.getParameter('sysparm_startDate');
+		var endDateString = this.getParameter('sysparm_endDateString');
+
+		// Split the date strings into year, month, and day components
+		var startDateComponents = startDateString.split('-');
+		var endDateComponents = endDateString.split('-');
+
+		// Create Date objects from the components (subtract 1 from month index because JavaScript months are 0-indexed)
+		var startDate = new Date(parseInt(startDateComponents[0]), parseInt(startDateComponents[1]) - 1, parseInt(startDateComponents[2]));
+		var endDate = new Date(parseInt(endDateComponents[0]), parseInt(endDateComponents[1]) - 1, parseInt(endDateComponents[2]));
+
+		// Calculate the difference in milliseconds
+		var differenceInMilliseconds = endDate - startDate;
+
+		// Convert milliseconds to days
+		var differenceInDays = Math.floor(differenceInMilliseconds / (1000 * 60 * 60 * 24));
+
+		return differenceInDays.toFixed(0);
+	}
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;ignashuu&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-05-14 19:39:30&lt;/sys_created_on&gt;&lt;sys_id&gt;1aaeed2f934a0210292f73118bba10cf&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;ReserveItUtils&lt;/sys_name&gt;&lt;sys_package display_value="ReserveIt" source="x_1317506_reservei"&gt;309a10ee93210210292f73118bba109e&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="ReserveIt"&gt;309a10ee93210210292f73118bba109e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_1aaeed2f934a0210292f73118bba10cf&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;ignashuu&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-05-14 19:39:30&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1634773099</payload_hash>
+        <record_name>ReserveItUtils</record_name>
+        <reverted_from/>
+        <source>2cee256f934a0210292f73118bba102b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 19:39:31</sys_created_on>
+        <sys_id>a59f61af934a0210292f73118bba1063</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f789dfd890000001</sys_recorded_at>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 19:39:31</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>e99f61afaf4a0210b41e48ad79a92962</update_guid>
+        <update_guid_history>e99f61afaf4a0210b41e48ad79a92962:-1634773099</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 19:52:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>9e71d6dde11a467daad7c10a53274579</sys_id>
+        <sys_metadata>1aaeed2f934a0210292f73118bba10cf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ReserveItUtils</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sys_script_include_1aaeed2f934a0210292f73118bba10cf</sys_update_name>
+        <sys_update_version display_value="sys_script_include_1aaeed2f934a0210292f73118bba10cf">a59f61af934a0210292f73118bba1063</sys_update_version>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 19:52:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>12</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="2">da3df86f93460210292f73118bba10c9</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-14 15:59:29</sys_created_on>
+        <sys_id>123df86f93460210292f73118bba10cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_column_123df86f93460210292f73118bba10cc</sys_update_name>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-14 15:59:29</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sp_column_123df86f93460210292f73118bba10cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="2">da3df86f93460210292f73118bba10c9</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>stan</sys_created_by><sys_created_on>2024-05-14 15:59:29</sys_created_on><sys_id>123df86f93460210292f73118bba10cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sp_column_123df86f93460210292f73118bba10cc</sys_update_name><sys_updated_by>stan</sys_updated_by><sys_updated_on>2024-05-14 15:59:29</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-1460651426</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>5b7ae0a793060210292f73118bba109f</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-14 15:59:29</sys_created_on>
+        <sys_id>5e3df86f93460210292f73118bba10cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f77d48cc30000001</sys_recorded_at>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-14 15:59:29</sys_updated_on>
+        <type>Column</type>
+        <update_guid>923df86f4c46021006e5ae440ead7bcd</update_guid>
+        <update_guid_history>923df86f4c46021006e5ae440ead7bcd:-1460651426</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">f1cd7caf93460210292f73118bba1009</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-14 16:01:54</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>063609f547114523802e8f9b36a185d1</sys_id>
+        <sys_metadata>123df86f93460210292f73118bba10cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sp_column_123df86f93460210292f73118bba10cc</sys_update_name>
+        <sys_update_version display_value="sp_column_123df86f93460210292f73118bba10cc">5e3df86f93460210292f73118bba10cd</sys_update_version>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-14 16:01:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

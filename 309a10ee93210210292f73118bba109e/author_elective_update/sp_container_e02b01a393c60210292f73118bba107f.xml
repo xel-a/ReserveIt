@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Hotel Reservation Portal Homepage - Container 3</name>
+        <order>3</order>
+        <sp_page display_value="hrp_index">4888b35393420210292f73118bba1080</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>saz</sys_created_by>
+        <sys_created_on>2024-05-14 17:00:15</sys_created_on>
+        <sys_id>e02b01a393c60210292f73118bba107f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Hotel Reservation Portal Homepage - Container 3</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_container_e02b01a393c60210292f73118bba107f</sys_update_name>
+        <sys_updated_by>saz</sys_updated_by>
+        <sys_updated_on>2024-05-14 17:00:52</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sp_container_e02b01a393c60210292f73118bba107f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Hotel Reservation Portal Homepage - Container 3</name><order>3</order><sp_page display_value="hrp_index">4888b35393420210292f73118bba1080</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>saz</sys_created_by><sys_created_on>2024-05-14 17:00:15</sys_created_on><sys_id>e02b01a393c60210292f73118bba107f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Hotel Reservation Portal Homepage - Container 3</sys_name><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sp_container_e02b01a393c60210292f73118bba107f</sys_update_name><sys_updated_by>saz</sys_updated_by><sys_updated_on>2024-05-14 17:00:52</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1703056763</payload_hash>
+        <record_name>Hotel Reservation Portal Homepage - Container 3</record_name>
+        <reverted_from/>
+        <source>0df474e393460210292f73118bba1004</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>saz</sys_created_by>
+        <sys_created_on>2024-05-14 17:00:52</sys_created_on>
+        <sys_id>a94b49a393c60210292f73118bba100c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f780cbfd90000001</sys_recorded_at>
+        <sys_updated_by>saz</sys_updated_by>
+        <sys_updated_on>2024-05-14 17:00:52</sys_updated_on>
+        <type>Container</type>
+        <update_guid>614b49a32ac60210dc97ec09e958310c</update_guid>
+        <update_guid_history>614b49a32ac60210dc97ec09e958310c:1703056763,a42b01a313c602101cf9b19c3b3e9f80:1083085914</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Hotel Reservation Portal Homepage - Container 3">cb4b49a393c60210292f73118bba10be</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>saz</sys_created_by>
+        <sys_created_on>2024-05-14 17:00:58</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>1dfe233281124834beff52a35d8bf181</sys_id>
+        <sys_metadata>e02b01a393c60210292f73118bba107f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hotel Reservation Portal Homepage - Container 3</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sp_container_e02b01a393c60210292f73118bba107f</sys_update_name>
+        <sys_update_version display_value="sp_container_e02b01a393c60210292f73118bba107f">a94b49a393c60210292f73118bba100c</sys_update_version>
+        <sys_updated_by>saz</sys_updated_by>
+        <sys_updated_on>2024-05-14 17:00:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

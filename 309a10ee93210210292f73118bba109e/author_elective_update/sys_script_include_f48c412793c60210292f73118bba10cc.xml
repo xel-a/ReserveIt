@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1317506_reservei.ReserveItUtils</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>ReserveItUtils</name>
+        <script><![CDATA[var ReserveItUtils = Class.create();
+ReserveItUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    type: 'ReserveItUtils',
+	getRoomRate: function() {
+        var roomId = this.getParameter('sys_id');
+        var roomGR = new GlideRecord('room_table'); // Replace 'room_table' with the actual table name of the room record
+        if (roomGR.get(roomId)) {
+            return roomGR.getValue('room_rate');
+        } else {
+            return null;
+        }
+    }
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 17:07:48</sys_created_on>
+        <sys_id>f48c412793c60210292f73118bba10cc</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>ReserveItUtils</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sys_script_include_f48c412793c60210292f73118bba10cc</sys_update_name>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 17:19:00</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sys_script_include_f48c412793c60210292f73118bba10cc</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_1317506_reservei.ReserveItUtils&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;ReserveItUtils&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var ReserveItUtils = Class.create();
+ReserveItUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    type: 'ReserveItUtils',
+	getRoomRate: function() {
+        var roomId = this.getParameter('sys_id');
+        var roomGR = new GlideRecord('room_table'); // Replace 'room_table' with the actual table name of the room record
+        if (roomGR.get(roomId)) {
+            return roomGR.getValue('room_rate');
+        } else {
+            return null;
+        }
+    }
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;ignashuu&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-05-14 17:07:48&lt;/sys_created_on&gt;&lt;sys_id&gt;f48c412793c60210292f73118bba10cc&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;ReserveItUtils&lt;/sys_name&gt;&lt;sys_package display_value="ReserveIt" source="x_1317506_reservei"&gt;309a10ee93210210292f73118bba109e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ReserveIt"&gt;309a10ee93210210292f73118bba109e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_f48c412793c60210292f73118bba10cc&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;ignashuu&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-05-14 17:19:00&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>2102747354</payload_hash>
+        <record_name>ReserveItUtils</record_name>
+        <reverted_from/>
+        <source>ca2a28ee93610210292f73118bba107a</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 17:19:00</sys_created_on>
+        <sys_id>cb6f412b93c60210292f73118bba102b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f781d58840000001</sys_recorded_at>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 17:19:00</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>836f412bd7c6021038578524b1d96a2b</update_guid>
+        <update_guid_history>836f412bd7c6021038578524b1d96a2b:2102747354,cc2f09e71ac602103c3a29712d2df7de:-1625924885,bfee45e7aac60210d67f012a1fd35744:2102747354,d3dc4927eec602106a948a0cba90479f:-424547810</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 17:22:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>09eabcbe651349059565a3f130c63839</sys_id>
+        <sys_metadata>f48c412793c60210292f73118bba10cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ReserveItUtils</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sys_script_include_f48c412793c60210292f73118bba10cc</sys_update_name>
+        <sys_update_version display_value="sys_script_include_f48c412793c60210292f73118bba10cc">cb6f412b93c60210292f73118bba102b</sys_update_version>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 17:22:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

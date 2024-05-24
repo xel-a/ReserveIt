@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>ReserveItUtils</name>
+        <operation display_value="execute">execute</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 17:07:48</sys_created_on>
+        <sys_id>57dc492793c60210292f73118bba1098</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ReserveItUtils</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sys_security_acl_57dc492793c60210292f73118bba1098</sys_update_name>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 17:07:48</sys_updated_on>
+        <type display_value="client_callable_script_include">client_callable_script_include</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sys_security_acl_57dc492793c60210292f73118bba1098</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>ReserveItUtils</name><operation display_value="execute">execute</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-05-14 17:07:48</sys_created_on><sys_id>57dc492793c60210292f73118bba1098</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ReserveItUtils</sys_name><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sys_security_acl_57dc492793c60210292f73118bba1098</sys_update_name><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-05-14 17:07:48</sys_updated_on><type display_value="client_callable_script_include">client_callable_script_include</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1353989459</payload_hash>
+        <record_name>ReserveItUtils</record_name>
+        <reverted_from/>
+        <source>ca2a28ee93610210292f73118bba107a</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 17:07:48</sys_created_on>
+        <sys_id>17dc492793c60210292f73118bba109b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f78131a430000001</sys_recorded_at>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 17:07:48</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>5bdc492776c60210d68cd4d8746aa89a</update_guid>
+        <update_guid_history>5bdc492776c60210d68cd4d8746aa89a:-1353989459</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 17:37:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>2a15773a042644aa86f22684c530fe49</sys_id>
+        <sys_metadata>57dc492793c60210292f73118bba1098</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ReserveItUtils</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_57dc492793c60210292f73118bba1098</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_57dc492793c60210292f73118bba1098">17dc492793c60210292f73118bba109b</sys_update_version>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 17:37:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

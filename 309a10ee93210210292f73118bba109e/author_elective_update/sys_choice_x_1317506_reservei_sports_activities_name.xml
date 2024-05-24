@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="name" table="x_1317506_reservei_sports_activities" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <name>x_1317506_reservei_sports_activities</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>stan</sys_created_by>
+            <sys_created_on>2024-05-15 15:58:00</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>name</sys_name>
+            <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+            <sys_update_name>sys_choice_x_1317506_reservei_sports_activities_name</sys_update_name>
+            <sys_updated_by>stan</sys_updated_by>
+            <sys_updated_on>2024-05-15 15:58:00</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Table Tennis</label>
+            <language>en</language>
+            <name>x_1317506_reservei_sports_activities</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>stan</sys_created_by>
+            <sys_created_on>2024-05-15 15:58:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>stan</sys_updated_by>
+            <sys_updated_on>2024-05-15 15:59:03</sys_updated_on>
+            <value>Table Tennis</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Basketball</label>
+            <language>en</language>
+            <name>x_1317506_reservei_sports_activities</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>stan</sys_created_by>
+            <sys_created_on>2024-05-15 15:58:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>stan</sys_updated_by>
+            <sys_updated_on>2024-05-15 15:59:05</sys_updated_on>
+            <value>Basketball</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Volleyball</label>
+            <language>en</language>
+            <name>x_1317506_reservei_sports_activities</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>stan</sys_created_by>
+            <sys_created_on>2024-05-15 15:58:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>stan</sys_updated_by>
+            <sys_updated_on>2024-05-15 15:59:07</sys_updated_on>
+            <value>Volleyball</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Badminton</label>
+            <language>en</language>
+            <name>x_1317506_reservei_sports_activities</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>stan</sys_created_by>
+            <sys_created_on>2024-05-15 15:58:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>stan</sys_updated_by>
+            <sys_updated_on>2024-05-15 15:59:08</sys_updated_on>
+            <value>Badminton</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

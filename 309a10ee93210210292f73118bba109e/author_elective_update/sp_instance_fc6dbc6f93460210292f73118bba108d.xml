@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">123df86f93460210292f73118bba10cc</sp_column>
+        <sp_widget display_value="Appsec Scanner Home Page">a2607d96538230104df4ddeeff7b123e</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-14 16:00:12</sys_created_on>
+        <sys_id>fc6dbc6f93460210292f73118bba108d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_instance_fc6dbc6f93460210292f73118bba108d</sys_update_name>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-14 16:00:12</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=fc6dbc6f93460210292f73118bba108d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sp_instance_fc6dbc6f93460210292f73118bba108d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">123df86f93460210292f73118bba10cc</sp_column><sp_widget display_value="Appsec Scanner Home Page">a2607d96538230104df4ddeeff7b123e</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>stan</sys_created_by><sys_created_on>2024-05-14 16:00:12</sys_created_on><sys_id>fc6dbc6f93460210292f73118bba108d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sp_instance_fc6dbc6f93460210292f73118bba108d</sys_update_name><sys_updated_by>stan</sys_updated_by><sys_updated_on>2024-05-14 16:00:12</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=fc6dbc6f93460210292f73118bba108d"/></record_update>]]></payload>
+        <payload_hash>-1274464474</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>5b7ae0a793060210292f73118bba109f</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-14 16:00:12</sys_created_on>
+        <sys_id>706d70af93460210292f73118bba1055</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f77d534480000001</sys_recorded_at>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-14 16:00:12</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>b46d70afc94602106333b790bee46554</update_guid>
+        <update_guid_history>b46d70afc94602106333b790bee46554:-1274464474</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">d66d70af93460210292f73118bba107d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-14 16:00:18</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>11463ccc3af44c5d89e0256dc05f9699</sys_id>
+        <sys_metadata>fc6dbc6f93460210292f73118bba108d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sp_instance_fc6dbc6f93460210292f73118bba108d</sys_update_name>
+        <sys_update_version display_value="sp_instance_fc6dbc6f93460210292f73118bba108d">706d70af93460210292f73118bba1055</sys_update_version>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-14 16:00:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

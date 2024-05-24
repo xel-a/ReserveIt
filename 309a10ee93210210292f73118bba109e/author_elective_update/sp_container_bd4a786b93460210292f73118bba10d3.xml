@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>bg</class_name>
+        <container_class_name>bg</container_class_name>
+        <name>ReserveIt - Login - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="reserveit_login">394a786b93460210292f73118bba10d0</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-14 15:46:37</sys_created_on>
+        <sys_id>bd4a786b93460210292f73118bba10d3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>ReserveIt - Login - Container 2</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_container_bd4a786b93460210292f73118bba10d3</sys_update_name>
+        <sys_updated_by>saz</sys_updated_by>
+        <sys_updated_on>2024-05-14 15:55:00</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sp_container_bd4a786b93460210292f73118bba10d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name>bg</class_name><container_class_name>bg</container_class_name><name>ReserveIt - Login - Container 2</name><order>2</order><sp_page display_value="reserveit_login">394a786b93460210292f73118bba10d0</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>stan</sys_created_by><sys_created_on>2024-05-14 15:46:37</sys_created_on><sys_id>bd4a786b93460210292f73118bba10d3</sys_id><sys_mod_count>3</sys_mod_count><sys_name>ReserveIt - Login - Container 2</sys_name><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sp_container_bd4a786b93460210292f73118bba10d3</sys_update_name><sys_updated_by>saz</sys_updated_by><sys_updated_on>2024-05-14 15:55:00</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-2138953653</payload_hash>
+        <record_name>ReserveIt - Login - Container 2</record_name>
+        <reverted_from/>
+        <source>0df474e393460210292f73118bba1004</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>saz</sys_created_by>
+        <sys_created_on>2024-05-14 15:55:00</sys_created_on>
+        <sys_id>ac3c3ceb93460210292f73118bba10b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f77d070a70000001</sys_recorded_at>
+        <sys_updated_by>saz</sys_updated_by>
+        <sys_updated_on>2024-05-14 15:55:00</sys_updated_on>
+        <type>Container</type>
+        <update_guid>643c3cebb7460210731c5f93669bedb5</update_guid>
+        <update_guid_history>643c3cebb7460210731c5f93669bedb5:-2138953653,c4ab30eb0e46021001752346c8238393:-792203995,f10b38abcd46021004e790423e8b801a:-2010070012,f94a786bdf460210768fd5477f77b1d5:141935500</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ReserveIt - Login - Container 2">996cb02f93460210292f73118bba1082</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>saz</sys_created_by>
+        <sys_created_on>2024-05-14 15:55:51</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>0e443bfeb919436181e207e045f3d169</sys_id>
+        <sys_metadata>bd4a786b93460210292f73118bba10d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ReserveIt - Login - Container 2</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sp_container_bd4a786b93460210292f73118bba10d3</sys_update_name>
+        <sys_update_version display_value="sp_container_bd4a786b93460210292f73118bba10d3">ac3c3ceb93460210292f73118bba10b5</sys_update_version>
+        <sys_updated_by>saz</sys_updated_by>
+        <sys_updated_on>2024-05-14 15:55:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

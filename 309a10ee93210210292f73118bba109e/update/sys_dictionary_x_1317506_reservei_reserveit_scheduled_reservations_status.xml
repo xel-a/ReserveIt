@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="status" table="x_1317506_reservei_reserveit_scheduled_reservations">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -10,18 +10,18 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice>1</choice>
+        <choice>3</choice>
         <choice_field/>
         <choice_table/>
         <column_label>Status</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>booked</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>false</display>
+        <display>true</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
@@ -58,7 +58,7 @@
         <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
         <sys_update_name>sys_dictionary_x_1317506_reservei_reserveit_scheduled_reservations_status</sys_update_name>
         <sys_updated_by>ignashuu</sys_updated_by>
-        <sys_updated_on>2024-04-16 15:05:07</sys_updated_on>
+        <sys_updated_on>2024-05-14 21:28:10</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

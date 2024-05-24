@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>warning</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter/>
+        <glyph>sun-o</glyph>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">d93175fb934a4210292f73118bba10fa</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Count">1d8ad230ff223100ba13ffffffffffb9</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-15 14:25:23</sys_created_on>
+        <sys_id>a941f5fb934a4210292f73118bba10e1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Your Sports Activities</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_instance_table_a941f5fb934a4210292f73118bba10e1</sys_update_name>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-15 14:51:22</sys_updated_on>
+        <table>x_1317506_reservei_sports_activities</table>
+        <title>Your Sports Activities</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=a941f5fb934a4210292f73118bba10e1"/>
+</record_update>

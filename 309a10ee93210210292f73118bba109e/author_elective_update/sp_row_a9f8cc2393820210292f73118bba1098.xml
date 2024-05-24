@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>2</order>
+        <sp_column/>
+        <sp_container display_value="Hotel Reservation Portal Homepage - Container 1">5a68402393820210292f73118bba103d</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>airash</sys_created_by>
+        <sys_created_on>2024-05-14 12:11:09</sys_created_on>
+        <sys_id>a9f8cc2393820210292f73118bba1098</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_row_a9f8cc2393820210292f73118bba1098</sys_update_name>
+        <sys_updated_by>airash</sys_updated_by>
+        <sys_updated_on>2024-05-14 13:10:12</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sp_row_a9f8cc2393820210292f73118bba1098</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>2</order><sp_column/><sp_container display_value="Hotel Reservation Portal Homepage - Container 1">5a68402393820210292f73118bba103d</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>airash</sys_created_by><sys_created_on>2024-05-14 12:11:09</sys_created_on><sys_id>a9f8cc2393820210292f73118bba1098</sys_id><sys_mod_count>4</sys_mod_count><sys_name>2</sys_name><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sp_row_a9f8cc2393820210292f73118bba1098</sys_update_name><sys_updated_by>airash</sys_updated_by><sys_updated_on>2024-05-14 13:10:12</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>1024660859</payload_hash>
+        <record_name>2</record_name>
+        <reverted_from/>
+        <source>4ea9e82793060210292f73118bba1068</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 14:34:07</sys_created_on>
+        <sys_id>4cb9ac2793060210292f73118bba1051</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f778666bf0000001</sys_recorded_at>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 14:34:07</sys_updated_on>
+        <type>Row</type>
+        <update_guid>ea7658af0f820210531e58e690a3ce8c</update_guid>
+        <update_guid_history>ea7658af0f820210531e58e690a3ce8c:1024660859,2809a0e3ac06021073aa3ab75485597c:-1035409273,ea7658af0f820210531e58e690a3ce8c:1024660859,3b85986f70820210d71cc65151355939:-1799717,4275186fe9820210817907244a1f5430:1024660859,8f65d46fe08202105e0008481161287c:2051121435,adf8cc232f8202101403e8e1f8a25899:1024660859</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2">feba68a793060210292f73118bba1016</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-14 14:38:41</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>0533c0f2b26d493086cf07ffa659c840</sys_id>
+        <sys_metadata>a9f8cc2393820210292f73118bba1098</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sp_row_a9f8cc2393820210292f73118bba1098</sys_update_name>
+        <sys_update_version display_value="sp_row_a9f8cc2393820210292f73118bba1098">4cb9ac2793060210292f73118bba1051</sys_update_version>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-14 14:38:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

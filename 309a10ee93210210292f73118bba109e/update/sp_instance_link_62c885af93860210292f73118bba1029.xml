@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>info</color>
+        <css/>
+        <glyph>star</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Freely choose and go to various sports activities available here.</short_description>
+        <size>md</size>
+        <sp_column display_value="1">83750d2b93860210292f73118bba1077</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-14 16:50:01</sys_created_on>
+        <sys_id>62c885af93860210292f73118bba1029</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Book a Sports Activity</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_instance_link_62c885af93860210292f73118bba1029</sys_update_name>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-14 16:54:26</sys_updated_on>
+        <title>Book a Sports Activity</title>
+        <type>url</type>
+        <url>https://dev192042.service-now.com/hrp?id=form&amp;table=x_1317506_reservei_sports_activities&amp;view=mobile&amp;sys_id=-1</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=62c885af93860210292f73118bba1029"/>
+</record_update>

@@ -10,13 +10,13 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice/>
+        <choice>3</choice>
         <choice_field/>
         <choice_table/>
         <column_label>Name</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>Table Tennis</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -57,8 +57,8 @@
         <sys_policy/>
         <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
         <sys_update_name>sys_dictionary_x_1317506_reservei_sports_activities_name</sys_update_name>
-        <sys_updated_by>ignashuu</sys_updated_by>
-        <sys_updated_on>2024-04-16 15:10:18</sys_updated_on>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-15 15:59:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1317506_reservei.ReserveItUtils</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>ReserveItUtils</name>
+        <script><![CDATA[var ReserveItUtils = Class.create();
+ReserveItUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	type: 'ReserveItUtils',
+	getRoomRate: function () {
+		var roomId = this.getParameter('sysparm_roomId');
+		var gr = new GlideRecord('x_1317506_reservei_reserveit_rooms');
+		gr.get('sys_id', roomId);
+		return gr.getValue('room_rate');
+	},
+	getDateDiff: function () {
+		var startDateInp = this.getParameter('sysparm_startDate');
+		var endDateInp = this.getParameter('sysparm_endDate');
+
+		// Split the date strings into year, month, and day components
+		var startDateComponents = startDateInp.split('-');
+		var endDateComponents = endDateInp.split('-');
+
+		// Create Date objects from the components (subtract 1 from month index because JavaScript months are 0-indexed)
+		var startDate = new Date(parseInt(startDateComponents[0]), parseInt(startDateComponents[1]) - 1, parseInt(startDateComponents[2]));
+		var endDate = new Date(parseInt(endDateComponents[0]), parseInt(endDateComponents[1]) - 1, parseInt(endDateComponents[2]));
+
+		// Calculate the difference in milliseconds
+		var differenceInMilliseconds = endDate - startDate;
+
+		// Convert milliseconds to days
+		var differenceInDays = Math.floor(differenceInMilliseconds / (1000 * 60 * 60 * 24)).toFixed(0);
+
+		return differenceInDays;
+	},
+	getFilteredReservations: function() {
+		var currentUserId = gs.getUserID();
+		var gr = new GlideRecord('x_1317506_reservei_reserveit_scheduled_reservations');
+		gr.addQuery('guest_name', currentUserId);
+		gr.query();
+		
+		var records = [];
+
+		while(gr.next()) {
+			records.push(gr);
+		}
+
+		return records;
+	}
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 17:42:35</sys_created_on>
+        <sys_id>480415af93c60210292f73118bba1064</sys_id>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_name>ReserveItUtils</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sys_script_include_480415af93c60210292f73118bba1064</sys_update_name>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-15 16:05:01</sys_updated_on>
+    </sys_script_include>
+</record_update>

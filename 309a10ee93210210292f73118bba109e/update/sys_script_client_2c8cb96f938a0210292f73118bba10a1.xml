@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>On form load</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+	// hide status
+	g_form.setVisible('status', false);
+
+	if (g_user.hasRole('x_1317506_reserveit.administrator') || g_user.hasRole('x_1317506_reserveit.receptionist')) {
+		g_form.setVisible('status', true);
+	}
+
+	var currentDate = new Date();
+	var formattedDate = formatDate(currentDate);
+
+	g_form.setValue('check_in_date', formattedDate);
+	g_form.setValue('check_out_date', formattedDate);
+}
+
+function formatDate(date) {
+	var year = date.getFullYear();
+	var month = ("0" + (date.getMonth() + 1)).slice(-2); // Months are zero-based
+	var day = ("0" + date.getDate()).slice(-2);
+	return year + "-" + month + "-" + day;
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 20:39:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2c8cb96f938a0210292f73118bba10a1</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>On form load</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sys_script_client_2c8cb96f938a0210292f73118bba10a1</sys_update_name>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-15 19:05:13</sys_updated_on>
+        <table>x_1317506_reservei_reserveit_scheduled_reservations</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

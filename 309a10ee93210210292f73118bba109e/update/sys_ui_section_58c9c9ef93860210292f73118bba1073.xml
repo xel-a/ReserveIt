@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="58c9c9ef93860210292f73118bba1073" sys_domain="global" table="x_1317506_reservei_sports_activities" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>stan</sys_created_by>
+            <sys_created_on>2024-05-14 16:54:14</sys_created_on>
+            <sys_id>9cc9812393c60210292f73118bba1006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_sports_activities" sys_domain="global" view="Default view">58c9c9ef93860210292f73118bba1073</sys_ui_section>
+            <sys_updated_by>stan</sys_updated_by>
+            <sys_updated_on>2024-05-14 16:54:14</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>stan</sys_created_by>
+            <sys_created_on>2024-05-14 16:54:14</sys_created_on>
+            <sys_id>d4c9812393c60210292f73118bba1007</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_sports_activities" sys_domain="global" view="Default view">58c9c9ef93860210292f73118bba1073</sys_ui_section>
+            <sys_updated_by>stan</sys_updated_by>
+            <sys_updated_on>2024-05-14 16:54:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date</element>
+            <position>2</position>
+            <sys_created_by>stan</sys_created_by>
+            <sys_created_on>2024-05-14 16:54:14</sys_created_on>
+            <sys_id>d8c9812393c60210292f73118bba1007</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_sports_activities" sys_domain="global" view="Default view">58c9c9ef93860210292f73118bba1073</sys_ui_section>
+            <sys_updated_by>stan</sys_updated_by>
+            <sys_updated_on>2024-05-14 16:54:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>stan</sys_created_by>
+            <sys_created_on>2024-05-14 16:54:14</sys_created_on>
+            <sys_id>dcc9812393c60210292f73118bba1007</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_sports_activities" sys_domain="global" view="Default view">58c9c9ef93860210292f73118bba1073</sys_ui_section>
+            <sys_updated_by>stan</sys_updated_by>
+            <sys_updated_on>2024-05-14 16:54:14</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time</element>
+            <position>4</position>
+            <sys_created_by>stan</sys_created_by>
+            <sys_created_on>2024-05-14 16:54:14</sys_created_on>
+            <sys_id>d0c9812393c60210292f73118bba1008</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_sports_activities" sys_domain="global" view="Default view">58c9c9ef93860210292f73118bba1073</sys_ui_section>
+            <sys_updated_by>stan</sys_updated_by>
+            <sys_updated_on>2024-05-14 16:54:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity_rate</element>
+            <position>5</position>
+            <sys_created_by>stan</sys_created_by>
+            <sys_created_on>2024-05-14 16:54:14</sys_created_on>
+            <sys_id>d4c9812393c60210292f73118bba1008</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_sports_activities" sys_domain="global" view="Default view">58c9c9ef93860210292f73118bba1073</sys_ui_section>
+            <sys_updated_by>stan</sys_updated_by>
+            <sys_updated_on>2024-05-14 16:54:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>stan</sys_created_by>
+            <sys_created_on>2024-05-14 16:54:14</sys_created_on>
+            <sys_id>d8c9812393c60210292f73118bba1008</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1317506_reservei_sports_activities" sys_domain="global" view="Default view">58c9c9ef93860210292f73118bba1073</sys_ui_section>
+            <sys_updated_by>stan</sys_updated_by>
+            <sys_updated_on>2024-05-14 16:54:14</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1317506_reservei_sports_activities</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>stan</sys_created_by>
+            <sys_created_on>2024-05-14 16:54:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58c9c9ef93860210292f73118bba1073</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1317506_reservei_sports_activities</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+            <sys_update_name>sys_ui_section_58c9c9ef93860210292f73118bba1073</sys_update_name>
+            <sys_updated_by>stan</sys_updated_by>
+            <sys_updated_on>2024-05-14 16:54:13</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

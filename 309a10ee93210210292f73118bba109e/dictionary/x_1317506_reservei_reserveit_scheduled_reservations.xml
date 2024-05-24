@@ -6,9 +6,13 @@
         <element attributes="edge_encryption_enabled=true" label="No. of Days" max_length="40" name="no_of_days" read_only="true" type="integer"/>
         <element label="Number of Adults" max_length="40" name="number_of_adults" type="integer"/>
         <element label="Number of Children" max_length="40" name="number_of_children" type="integer"/>
-        <element label="Room" max_length="32" name="room" reference="x_1317506_reservei_reserveit_rooms" type="reference"/>
-        <element choice="1" label="Status" max_length="40" name="status" type="choice">
-            <choice/>
+        <element label="Room" max_length="32" name="room" reference="x_1317506_reservei_reserveit_rooms" reference_qual="is_available=true^EQ" reference_qual_condition="is_available=true^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="booked" display="true" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Booked" sequence="1" value="booked"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="2" value="cancelled"/>
+                <element inactive_on_update="false" label="Closed" sequence="3" value="closed"/>
+            </choice>
         </element>
         <element label="Total Payment" max_length="20" name="total_payment" type="currency"/>
         <index name="index">

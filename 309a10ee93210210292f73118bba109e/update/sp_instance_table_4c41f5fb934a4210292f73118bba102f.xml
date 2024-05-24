@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>warning</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter table="x_1317506_reservei_reserveit_scheduled_reservations">guest_name=4f78787e93820210292f73118bba10ba<item display_table="x_1317506_reservei_reserveit_users" display_value="User 1" endquery="false" field="guest_name" goto="false" newquery="false" operator="=" or="false" value="4f78787e93820210292f73118bba10ba"/>
+        </filter>
+        <glyph>address-book</glyph>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">d13175fb934a4210292f73118bba10f8</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Count">1d8ad230ff223100ba13ffffffffffb9</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-15 14:25:16</sys_created_on>
+        <sys_id>4c41f5fb934a4210292f73118bba102f</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Your Scheduled Reservations</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_instance_table_4c41f5fb934a4210292f73118bba102f</sys_update_name>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-15 18:13:28</sys_updated_on>
+        <table>x_1317506_reservei_reserveit_scheduled_reservations</table>
+        <title>Your Scheduled Reservations</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=4c41f5fb934a4210292f73118bba102f"/>
+</record_update>

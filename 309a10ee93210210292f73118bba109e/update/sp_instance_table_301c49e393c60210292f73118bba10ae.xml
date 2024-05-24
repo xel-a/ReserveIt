@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter table="x_1317506_reservei_reserveit_rooms">is_available=true<item endquery="false" field="is_available" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </filter>
+        <glyph>bed</glyph>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">4357c12f93860210292f73118bba10a4</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Count">1d8ad230ff223100ba13ffffffffffb9</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-14 17:04:22</sys_created_on>
+        <sys_id>301c49e393c60210292f73118bba10ae</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Number of Available Rooms</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_instance_table_301c49e393c60210292f73118bba10ae</sys_update_name>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-14 17:11:35</sys_updated_on>
+        <table>x_1317506_reservei_reserveit_rooms</table>
+        <title>Number of Available Rooms</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=301c49e393c60210292f73118bba10ae"/>
+</record_update>

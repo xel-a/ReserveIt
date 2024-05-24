@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>danger</color>
+        <css/>
+        <glyph>book</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Stay shortly with the best hotel in Adonis.</short_description>
+        <size>md</size>
+        <sp_column display_value="1">0ae8e8a393060210292f73118bba106e</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-14 14:38:18</sys_created_on>
+        <sys_id>8daa24a793060210292f73118bba1036</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Reserve for a Day</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_instance_link_8daa24a793060210292f73118bba1036</sys_update_name>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-15 14:35:59</sys_updated_on>
+        <title>Reserve for a Day</title>
+        <type>url</type>
+        <url>https://dev192042.service-now.com/hrp?id=form&amp;table=x_1317506_reservei_reserveit_scheduled_reservations&amp;view=mobile&amp;sys_id=-1&amp;query=no_of_days%3D1</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=8daa24a793060210292f73118bba1036"/>
+</record_update>

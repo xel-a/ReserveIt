@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>12</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">5bdcfc2f93460210292f73118bba1066</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>saz</sys_created_by>
+        <sys_created_on>2024-05-14 15:57:54</sys_created_on>
+        <sys_id>9fdcfc2f93460210292f73118bba1068</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_column_9fdcfc2f93460210292f73118bba1068</sys_update_name>
+        <sys_updated_by>saz</sys_updated_by>
+        <sys_updated_on>2024-05-14 15:57:54</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sp_column_9fdcfc2f93460210292f73118bba1068</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">5bdcfc2f93460210292f73118bba1066</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>saz</sys_created_by><sys_created_on>2024-05-14 15:57:54</sys_created_on><sys_id>9fdcfc2f93460210292f73118bba1068</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sp_column_9fdcfc2f93460210292f73118bba1068</sys_update_name><sys_updated_by>saz</sys_updated_by><sys_updated_on>2024-05-14 15:57:54</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-735265624</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>0df474e393460210292f73118bba1004</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>saz</sys_created_by>
+        <sys_created_on>2024-05-14 15:57:54</sys_created_on>
+        <sys_id>dbdcfc2f93460210292f73118bba106a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f77d31a460000001</sys_recorded_at>
+        <sys_updated_by>saz</sys_updated_by>
+        <sys_updated_on>2024-05-14 15:57:54</sys_updated_on>
+        <type>Column</type>
+        <update_guid>13dcfc2fb246021010dba46468f7096a</update_guid>
+        <update_guid_history>13dcfc2fb246021010dba46468f7096a:-735265624</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">61ec306f93460210292f73118bba109d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>saz</sys_created_by>
+        <sys_created_on>2024-05-14 15:58:04</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>0b66c57f3e4b4227835a3dabd18e8e29</sys_id>
+        <sys_metadata>9fdcfc2f93460210292f73118bba1068</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sp_column_9fdcfc2f93460210292f73118bba1068</sys_update_name>
+        <sys_update_version display_value="sp_column_9fdcfc2f93460210292f73118bba1068">dbdcfc2f93460210292f73118bba106a</sys_update_version>
+        <sys_updated_by>saz</sys_updated_by>
+        <sys_updated_on>2024-05-14 15:58:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

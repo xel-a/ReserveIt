@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="DELETE">
+        <action_insert>true</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_1317506_reservei_reserveit_scheduled_reservations</collection>
+        <condition table="x_1317506_reservei_reserveit_scheduled_reservations">roomISNOTEMPTY^ORstatus=in-use^EQ<item endquery="false" field="room" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item display_value="In Use" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="in-use"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>Dear Reception Team,</p>
+<p>A new room booking has been made.</p>
+<p>Room: ${room}<br />Date: ${sys_created_on}</p>
+<p>Please make the necessary arrangements.</p>
+<p>Thank you,<br />Your Booking System</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Room Booking Notification</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields/>
+        <recipient_groups name="ReserveIt_Receptionist">ad273c6793460210292f73118bba10f4</recipient_groups>
+        <recipient_users>gqaapbez@guerrillamail.com,54c3874693210210292f73118bba101e</recipient_users>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>New Room Booking Notification</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>mochi</sys_created_by>
+        <sys_created_on>2024-05-14 15:21:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c283b86393460210292f73118bba1045</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Room Booking Notification</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sysevent_email_action_c283b86393460210292f73118bba1045</sys_update_name>
+        <sys_updated_by>mochi</sys_updated_by>
+        <sys_updated_on>2024-05-14 20:26:26</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sysevent_email_action_c283b86393460210292f73118bba1045</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Uncategorized" name="Uncategorized"&gt;c97d83137f4432005f58108c3ffa917a&lt;/category&gt;&lt;collection&gt;x_1317506_reservei_reserveit_scheduled_reservations&lt;/collection&gt;&lt;condition table="x_1317506_reservei_reserveit_scheduled_reservations"&gt;roomISNOTEMPTY^ORstatus=in-use^EQ&lt;item endquery="false" field="room" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item display_value="In Use" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="in-use"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;content_type&gt;text/html&lt;/content_type&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;enable_dynamic_translation&gt;false&lt;/enable_dynamic_translation&gt;&lt;event_name&gt;activate.life.cycle.migration&lt;/event_name&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;engine&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;Dear Reception Team,&lt;/p&gt;
+&lt;p&gt;A new room booking has been made.&lt;/p&gt;
+&lt;p&gt;Room: ${room}&lt;br /&gt;Date: ${sys_created_on}&lt;/p&gt;
+&lt;p&gt;Please make the necessary arrangements.&lt;/p&gt;
+&lt;p&gt;Thank you,&lt;br /&gt;Your Booking System&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;Room Booking Notification&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields/&gt;&lt;recipient_groups name="ReserveIt_Receptionist"&gt;ad273c6793460210292f73118bba10f4&lt;/recipient_groups&gt;&lt;recipient_users&gt;gqaapbez@guerrillamail.com,54c3874693210210292f73118bba101e&lt;/recipient_users&gt;&lt;reply_to/&gt;&lt;send_self&gt;true&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject&gt;New Room Booking Notification&lt;/subject&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;mochi&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-05-14 15:21:32&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;c283b86393460210292f73118bba1045&lt;/sys_id&gt;&lt;sys_mod_count&gt;11&lt;/sys_mod_count&gt;&lt;sys_name&gt;Room Booking Notification&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="ReserveIt" source="x_1317506_reservei"&gt;309a10ee93210210292f73118bba109e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ReserveIt"&gt;309a10ee93210210292f73118bba109e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_c283b86393460210292f73118bba1045&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;mochi&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-05-14 20:26:26&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;template display_value="Unsubscribe and Preferences"&gt;7ed0481f3b0b2200c869c2c703efc487&lt;/template&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-951761174</payload_hash>
+        <record_name>Room Booking Notification</record_name>
+        <reverted_from/>
+        <source>6929e4e393060210292f73118bba1052</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mochi</sys_created_by>
+        <sys_created_on>2024-05-14 20:26:26</sys_created_on>
+        <sys_id>f05a35eb938a0210292f73118bba10de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f78c8f31a0000001</sys_recorded_at>
+        <sys_updated_by>mochi</sys_updated_by>
+        <sys_updated_on>2024-05-14 20:26:26</sys_updated_on>
+        <type>Notification</type>
+        <update_guid>b85a35eb0f8a0210108922f91278d2dd</update_guid>
+        <update_guid_history>b85a35eb0f8a0210108922f91278d2dd:-951761174,9b6531a7c88a0210ebb396e3823b70ea:-61200867,daf5e5a3a64a02101d82fe9f5af3b484:814399044,b12e212f0f4a0210e437114bb981d7b1:1196806085,daf5e5a3a64a02101d82fe9f5af3b484:814399044,ddef1deba30a0210bcdfffd9c1ac4854:231403815,107f51ebfc0a02107df66dc74834afa7:-1537736294,cdcdd52bc80a0210d923086b8f523cc8:-2053834728,a78d992bed0a02102bfad290e8dd91fc:-707359056,3aed30ef6b4602105c0280a5329748df:-336951017,57ecfc2f40460210c97fb2326584d3ab:365948978,9b7a3c6bbc46021044d9a17ae5f0d682:-1618581742,8e363c272246021063d43674269cde99:-1667227082,6e847ca361460210aafdd0ae998cffb8:1767142967</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mochi</sys_created_by>
+        <sys_created_on>2024-05-15 00:25:30</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_email_action">sysevent_email_action</sys_db_object>
+        <sys_id>06592be8af2e4574938310dedad20090</sys_id>
+        <sys_metadata>c283b86393460210292f73118bba1045</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Room Booking Notification</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent display_value="Reserveit Scheduled Reservations">5043646a93610210292f73118bba10eb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sysevent_email_action_c283b86393460210292f73118bba1045</sys_update_name>
+        <sys_update_version display_value="sysevent_email_action_c283b86393460210292f73118bba1045">f05a35eb938a0210292f73118bba10de</sys_update_version>
+        <sys_updated_by>mochi</sys_updated_by>
+        <sys_updated_on>2024-05-15 00:25:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

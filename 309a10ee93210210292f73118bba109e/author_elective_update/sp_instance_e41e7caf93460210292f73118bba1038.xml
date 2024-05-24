@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">0a7db0af93460210292f73118bba10bb</sp_column>
+        <sp_widget display_value="Login">6506d341cb33020000f8d856634c9cdc</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>saz</sys_created_by>
+        <sys_created_on>2024-05-14 16:03:11</sys_created_on>
+        <sys_id>e41e7caf93460210292f73118bba1038</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_instance_e41e7caf93460210292f73118bba1038</sys_update_name>
+        <sys_updated_by>saz</sys_updated_by>
+        <sys_updated_on>2024-05-14 16:03:22</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"show_panel": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"use_advanced": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=e41e7caf93460210292f73118bba1038"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sp_instance_e41e7caf93460210292f73118bba1038</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;0a7db0af93460210292f73118bba10bb&lt;/sp_column&gt;&lt;sp_widget display_value="Login"&gt;6506d341cb33020000f8d856634c9cdc&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;saz&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-05-14 16:03:11&lt;/sys_created_on&gt;&lt;sys_id&gt;e41e7caf93460210292f73118bba1038&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="ReserveIt" source="x_1317506_reservei"&gt;309a10ee93210210292f73118bba109e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ReserveIt"&gt;309a10ee93210210292f73118bba109e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_e41e7caf93460210292f73118bba1038&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;saz&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-05-14 16:03:22&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"show_panel": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"use_advanced": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=e41e7caf93460210292f73118bba1038"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1109721374</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0df474e393460210292f73118bba1004</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>saz</sys_created_by>
+        <sys_created_on>2024-05-14 16:03:22</sys_created_on>
+        <sys_id>df1e30ef93460210292f73118bba1050</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f77d81c740000001</sys_recorded_at>
+        <sys_updated_by>saz</sys_updated_by>
+        <sys_updated_on>2024-05-14 16:03:22</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>971e30effe460210a72c411e9b58ad50</update_guid>
+        <update_guid_history>971e30effe460210a72c411e9b58ad50:1109721374,fc1e7caf574602106c99754f913c3239:689830289</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e64ebcaf93460210292f73118bba104a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>saz</sys_created_by>
+        <sys_created_on>2024-05-14 16:04:08</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>867ba1541fd846e1b4a81fcc148e76a1</sys_id>
+        <sys_metadata>e41e7caf93460210292f73118bba1038</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sp_instance_e41e7caf93460210292f73118bba1038</sys_update_name>
+        <sys_update_version display_value="sp_instance_e41e7caf93460210292f73118bba1038">df1e30ef93460210292f73118bba1050</sys_update_version>
+        <sys_updated_by>saz</sys_updated_by>
+        <sys_updated_on>2024-05-14 16:04:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

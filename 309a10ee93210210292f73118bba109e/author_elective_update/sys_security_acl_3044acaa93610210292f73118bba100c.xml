@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_1317506_reservei_reserveit_scheduled_reservations</description>
+        <name>x_1317506_reservei_reserveit_scheduled_reservations</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-04-16 15:05:07</sys_created_on>
+        <sys_id>3044acaa93610210292f73118bba100c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1317506_reservei_reserveit_scheduled_reservations</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sys_security_acl_3044acaa93610210292f73118bba100c</sys_update_name>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-04-16 15:05:07</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sys_security_acl_3044acaa93610210292f73118bba100c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_1317506_reservei_reserveit_scheduled_reservations</description><name>x_1317506_reservei_reserveit_scheduled_reservations</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>ignashuu</sys_created_by><sys_created_on>2024-04-16 15:05:07</sys_created_on><sys_id>3044acaa93610210292f73118bba100c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1317506_reservei_reserveit_scheduled_reservations</sys_name><sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package><sys_policy/><sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope><sys_update_name>sys_security_acl_3044acaa93610210292f73118bba100c</sys_update_name><sys_updated_by>ignashuu</sys_updated_by><sys_updated_on>2024-04-16 15:05:07</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>8189324</payload_hash>
+        <record_name>x_1317506_reservei_reserveit_scheduled_reservations</record_name>
+        <reverted_from/>
+        <source>349a10ee93210210292f73118bba10a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-04-16 15:05:07</sys_created_on>
+        <sys_id>b444acaa93610210292f73118bba100e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ee770b5f90000001</sys_recorded_at>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-04-16 15:05:07</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>f844acaa43610210dafa6f9ae3fd250d</update_guid>
+        <update_guid_history>f844acaa43610210dafa6f9ae3fd250d:8189324</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 22:13:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>36c2b10744a44d5e992ac5c004720269</sys_id>
+        <sys_metadata>3044acaa93610210292f73118bba100c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1317506_reservei_reserveit_scheduled_reservations</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent display_value="x_1317506_reservei_reserveit_scheduled_reservations">b044acaa93610210292f73118bba101d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_3044acaa93610210292f73118bba100c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_3044acaa93610210292f73118bba100c">b444acaa93610210292f73118bba100e</sys_update_version>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 22:13:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

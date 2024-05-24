@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Hotel Reservation Management System - Container 3</name>
+        <order>3</order>
+        <sp_page display_value="hotel_reservation_management_system">ea79a42793060210292f73118bba1013</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-14 14:34:45</sys_created_on>
+        <sys_id>85d9a82793060210292f73118bba1054</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hotel Reservation Management System - Container 3</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_container_85d9a82793060210292f73118bba1054</sys_update_name>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-14 14:34:45</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReserveIt">309a10ee93210210292f73118bba109e</application>
+        <file_path/>
+        <instance_id>02ac6681db0a3198199b17291396198a</instance_id>
+        <instance_name>dev192042</instance_name>
+        <name>sp_container_85d9a82793060210292f73118bba1054</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Hotel Reservation Management System - Container 3</name>
+        <order>3</order>
+        <sp_page display_value="hotel_reservation_management_system">ea79a42793060210292f73118bba1013</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>stan</sys_created_by>
+        <sys_created_on>2024-05-14 14:34:45</sys_created_on>
+        <sys_id>85d9a82793060210292f73118bba1054</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hotel Reservation Management System - Container 3</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_update_name>sp_container_85d9a82793060210292f73118bba1054</sys_update_name>
+        <sys_updated_by>stan</sys_updated_by>
+        <sys_updated_on>2024-05-14 14:34:45</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>]]></payload>
+        <payload_hash>-1038955118</payload_hash>
+        <record_name>Hotel Reservation Management System - Container 3</record_name>
+        <reverted_from/>
+        <source>9c1e29eb934a0210292f73118bba10ac</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>mochi</sys_created_by>
+        <sys_created_on>2024-05-14 19:33:24</sys_created_on>
+        <sys_id>372e652f934a0210292f73118bba104a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f7898646c0000001</sys_recorded_at>
+        <sys_updated_by>mochi</sys_updated_by>
+        <sys_updated_on>2024-05-14 19:33:24</sys_updated_on>
+        <type>Container</type>
+        <update_guid>ff2e652f5d4a02102bce42ef15b8c249</update_guid>
+        <update_guid_history>ff2e652f5d4a02102bce42ef15b8c249:0,e37a24a70a0602100a458ca71850751f:-603201972,59d9a827d2060210f516201a96229955:-1038012168</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ignashuu</sys_created_by>
+        <sys_created_on>2024-05-14 19:50:04</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>00bb5a3931fa454780066f1e6cfb7219</sys_id>
+        <sys_metadata>85d9a82793060210292f73118bba1054</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hotel Reservation Management System - Container 3</sys_name>
+        <sys_package display_value="ReserveIt" source="x_1317506_reservei">309a10ee93210210292f73118bba109e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReserveIt">309a10ee93210210292f73118bba109e</sys_scope>
+        <sys_scope_delete display_value="">03f41b8dd6e946f28a9ea8db871ecba1</sys_scope_delete>
+        <sys_update_name>sp_container_85d9a82793060210292f73118bba1054</sys_update_name>
+        <sys_update_version display_value="sp_container_85d9a82793060210292f73118bba1054">372e652f934a0210292f73118bba104a</sys_update_version>
+        <sys_updated_by>ignashuu</sys_updated_by>
+        <sys_updated_on>2024-05-14 19:50:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
